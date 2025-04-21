@@ -1,0 +1,2 @@
+daft[deltalake]
+python-dotenv
